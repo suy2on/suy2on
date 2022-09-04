@@ -36,7 +36,11 @@
 ### 💜Github Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suy2on&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suy2on&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 
 <!--
 **suy2on/suy2on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
