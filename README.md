@@ -1,8 +1,14 @@
 
+<div align="center">
+
+
 
 ### ✨Context
 <a href="https://velog.io/@rmswjdtn"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dev__rmswjdtn@naver.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
+
+</br>
+</br>
 
 
 ### 🛠Skills
@@ -22,6 +28,8 @@
 <img src="https://img.shields.io/badge/Github Actions-2496ED?style=for-the-badge&logo=Github Actions&logoColor=white"/>
 
 
+</br>
+</br>
 
 
 
@@ -32,27 +40,16 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmswjdtn)](https://solved.ac/rmswjdtn)
 
 </br>
+</br>
+
 
 ### 💜Github Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=suy2on&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suy2on&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 
 
-<!--
-**suy2on/suy2on** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
